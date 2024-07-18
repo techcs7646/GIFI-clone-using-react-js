@@ -1,3 +1,4 @@
+import { GiphyFetch } from "@giphy/js-fetch-api";
 import {createContext, useContext, useEffect, useState} from "react";
 
 const GifContext = createContext();
